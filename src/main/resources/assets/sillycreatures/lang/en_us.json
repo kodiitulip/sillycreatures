@@ -1,5 +1,4 @@
 {
-  "itemGroup.sillycreatures": "Example Mod Tab",
-  "block.sillycreatures.example_block": "Example Block",
-  "item.sillycreatures.example_item": "Example Item"
+  "itemGroup.sillycreatures": "Silly Creatures",
+  "item.sillycreatures.bismuth": "Bismuth"
 }
